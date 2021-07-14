@@ -1,1 +1,1 @@
-# IoT-Cheat-Sheet-
+# IoT-Cheat-Sheet
